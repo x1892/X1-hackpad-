@@ -6,8 +6,8 @@ here is the schematics<img width="1312" height="780" alt="schematics" src="https
 here is the top <img width="833" height="614" alt="top" src="https://github.com/user-attachments/assets/87c70d76-1e44-4496-bc82-c48447f810e8" />
 and the final view <img width="1080" height="483" alt="assembled" src="https://github.com/user-attachments/assets/5ae09819-a715-4413-b537-a407ac1ec676" />
 Bill of meterials
-Xiao RP2040 - 1
-Cherry MX switches - 4
-Cherry MX keycaps - 4
-Oled 0.91 - 1
-Heat inserts and screws - 4
+1.Xiao RP2040 - 1
+2.Cherry MX switches - 4
+3.Cherry MX keycaps - 4
+4.Oled 0.91 - 1
+5.Heat inserts and screws - 4
